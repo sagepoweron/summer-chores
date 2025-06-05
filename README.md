@@ -1,7 +1,9 @@
 # summer-chores
 
-## Latest Update
+## Updates
+Added version of program using await and async.
 Added version of program using promises instead of callbacks.
+Added version of program using callbacks.
 
 ## Features
 JavaScript
