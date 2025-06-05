@@ -1,5 +1,8 @@
 # summer-chores
 
+## Latest Update
+Added version of program using promises instead of callbacks.
+
 ## Features
 JavaScript
 Node
